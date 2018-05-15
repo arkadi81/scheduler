@@ -14,3 +14,14 @@ An application to help schedule employees for various shifts in a business
 * [x] Language: Python
 * [ ] Database?
 * [ ] Interface selection?
+
+# interface
+* python script
+* inputs: employees (names, id), their schedules, preferences, weekly hour preference for employee, shift and day preference for employees, position of employee, requirements of business (how many people does business need on at each time, in each role?), 
+input via emloyee object(s), attributes
+test people separate file
+* output: schedule which accomodates all/most of these
+output to iostream as table
+
+* maybe: db? relational?
+* object oriented python
